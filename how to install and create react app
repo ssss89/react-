@@ -1,0 +1,121 @@
+Microsoft Windows [Version 10.0.22000.1335]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Shivanshsoni>c:
+
+C:\Users\Shivanshsoni>c:
+
+C:\Users\Shivanshsoni>c:>
+The syntax of the command is incorrect.
+
+C:\Users\Shivanshsoni>c>
+The syntax of the command is incorrect.
+
+C:\Users\Shivanshsoni>mkdriv nodejsproject
+'mkdriv' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Shivanshsoni>npm -v
+8.19.2
+
+C:\Users\Shivanshsoni>node -v
+v18.12.1
+
+C:\Users\Shivanshsoni>npm install -g create-react-app
+npm WARN deprecated tar@2.2.2: This version of tar is no longer supported, and will not receive security updates. Please upgrade asap.
+
+changed 67 packages, and audited 68 packages in 6s
+
+5 packages are looking for funding
+  run `npm fund` for details
+
+2 high severity vulnerabilities
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+npm notice
+npm notice New major version of npm available! 8.19.2 -> 9.3.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v9.3.0
+npm notice Run npm install -g npm@9.3.0 to update!
+npm notice
+
+C:\Users\Shivanshsoni>create-react-app --version
+5.0.1
+
+C:\Users\Shivanshsoni>create-react-app shivanshnode
+
+Creating a new React app in C:\Users\Shivanshsoni\shivanshnode.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts with cra-template...
+
+
+added 1416 packages in 2m
+
+231 packages are looking for funding
+  run `npm fund` for details
+Git repo not initialized Error: Command failed: git --version
+    at checkExecSyncError (node:child_process:871:11)
+    at execSync (node:child_process:943:15)
+    at tryGitInit (C:\Users\Shivanshsoni\shivanshnode\node_modules\react-scripts\scripts\init.js:46:5)
+    at module.exports (C:\Users\Shivanshsoni\shivanshnode\node_modules\react-scripts\scripts\init.js:276:7)
+    at [eval]:3:14
+    at Script.runInThisContext (node:vm:129:12)
+    at Object.runInThisContext (node:vm:313:38)
+    at node:internal/process/execution:79:19
+    at [eval]-wrapper:6:22 {
+  status: 1,
+  signal: null,
+  output: [ null, null, null ],
+  pid: 53280,
+  stdout: null,
+  stderr: null
+}
+
+Installing template dependencies using npm...
+
+added 54 packages in 8s
+
+231 packages are looking for funding
+  run `npm fund` for details
+Removing template package using npm...
+
+
+removed 1 package, and audited 1470 packages in 4s
+
+231 packages are looking for funding
+  run `npm fund` for details
+
+6 high severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+Success! Created shivanshnode at C:\Users\Shivanshsoni\shivanshnode
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd shivanshnode
+  npm start
+
+Happy hacking!
+
+C:\Users\Shivanshsoni>
